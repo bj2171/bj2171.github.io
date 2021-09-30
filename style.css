@@ -42,7 +42,7 @@ body{
   border-radius: 3px;
   border: 1px solid #ccc;
   font-size: 17px;
-  padding-left: 15px;
+  padding-left: 100px;
   transition: all 0.3s ease;
 }
 .inputField input:focus{
